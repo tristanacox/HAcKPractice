@@ -25,3 +25,4 @@ myButton2.addEventListener('click', () => {
     thought = getRandomThought();
     myDiv2.innerHTML = thought;
 });
+
